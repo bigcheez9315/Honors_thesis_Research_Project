@@ -1,4 +1,4 @@
-# Summer-Research-Projec
+# Honors_Thesis_Research_Project
 This repository ontains programs that I created during my statistics research. 
 The first one calculates the conditional breakdown point of the LAD estimator on the stars data set. This is based on the algorithm 
 called MIP2 in the paper GiloniPadbergSIAM on page 12.
